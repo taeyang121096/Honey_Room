@@ -3,7 +3,7 @@
 
 ### IDE : Flutter    
 ### Language : Dart    
-### API : Google location api      
+### API : Google Map api      
 
 # Frontend dev
 - GPS 기반으로 주변 매물을 지도 상에 마킹 개발
